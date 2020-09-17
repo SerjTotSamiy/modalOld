@@ -1,0 +1,1454 @@
+ {
+  "reservations": {
+    "results1": {
+      "Alamo Square": [],
+      "Cupertino": [],
+      "Fulton": [],
+      "Hamann Park": [],
+      "Mayor's Mansion": [],
+      "Menlo Park": [],
+      "Mission": [],
+      "Oakland": [],
+      "PaloAlto": [
+        {
+          "checkIn": "2020-09-07 22:00:00",
+          "paid": "PAID: $0 of $244.44",
+          "checkOut": "2020-09-14 18:00:00",
+          "guest": "Joey Jb",
+          "phone": "+17036878383",
+          "timezone": "America/Los_Angeles",
+          "room": "Private",
+          "reservation_id": "5f569e603cae57002ab6c120",
+          "listing_title": "Palo Alto Startup House - Private room"
+        }
+      ],
+      "Portland": [],
+      "Richmond": [],
+      "SF Downtown": [],
+      "San Francisco Downtown": [],
+      "Stanford": [],
+      "Stunning Home In Menlo Park": [],
+      "The Mansion": []
+    },
+    "results2": {
+      "Alamo Square": [],
+      "Cupertino": [],
+      "Fulton": [],
+      "Hamann Park": [],
+      "Mayor's Mansion": [],
+      "Menlo Park": [],
+      "Mission": [],
+      "Oakland": [],
+      "PaloAlto": [],
+      "Portland": [],
+      "Richmond": [],
+      "SF Downtown": [],
+      "San Francisco Downtown": [],
+      "Stanford": [],
+      "Stunning Home In Menlo Park": [],
+      "The Mansion": []
+    },
+    "results3": {
+      "Alamo Square": [
+        {
+          "checkIn": "2020-08-15 22:00:00",
+          "paid": "PAID: $609.16 of $609.16",
+          "checkOut": "2020-09-15 18:00:00",
+          "guest": "Aaron Wilson",
+          "phone": "+12137877071",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f22ef3ded49e400288a43bf",
+          "listing_title": "Alamo Square Startup House Semi - Private Room"
+        },
+        {
+          "checkIn": "2020-08-30 22:00:00",
+          "paid": "PAID: $796.24 of $796.24",
+          "checkOut": "2020-10-03 18:00:00",
+          "guest": "Obie Dieke",
+          "phone": "+15203738287",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f2628a902418e002898afbf",
+          "listing_title": "Alamo Square Startup House Private Cubicle"
+        }
+      ],
+      "Cupertino": [],
+      "Fulton": [],
+      "Hamann Park": [],
+      "Mayor's Mansion": [],
+      "Menlo Park": [],
+      "Mission": [
+        {
+          "checkIn": "2020-08-28 22:00:00",
+          "paid": "PAID: $814.8 of $814.8",
+          "checkOut": "2020-09-25 18:00:00",
+          "guest": "Jose Negrete",
+          "phone": "+12095099677",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f4889d403df4c0029cc9d40",
+          "listing_title": "Mission Startup House - Private Cubicle"
+        },
+        {
+          "checkIn": "2020-08-30 22:00:00",
+          "paid": "PAID: $902.1 of $902.1",
+          "checkOut": "2020-09-30 18:00:00",
+          "guest": "Mary Lee",
+          "phone": "+16124811328",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f2a17f1fead33002b7f0030",
+          "listing_title": "Mission Startup House - Private Cubicle"
+        }
+      ],
+      "Oakland": [],
+      "Palo Alto": [
+        {
+          "checkIn": "2020-08-22 22:00:00",
+          "paid": "PAID: $1286 of $1617.23",
+          "checkOut": "2020-09-30 18:00:00",
+          "guest": "Philip Spink",
+          "phone": "+14038898816",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f319cca0113fe002d457b36",
+          "listing_title": "Palo Alto Startup House - Private Room"
+        },
+        {
+          "checkIn": "2020-09-06 22:00:00",
+          "paid": "PAID: $0 of $567.45",
+          "checkOut": "2020-09-19 18:00:00",
+          "guest": "Ryan Temple",
+          "phone": "+19086357906",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f43de58466c36002d8e1b1c",
+          "listing_title": "Palo Alto Startup House - Private Room"
+        },
+        {
+          "checkIn": "2020-09-07 22:00:00",
+          "paid": "PAID: $0 of $244.44",
+          "checkOut": "2020-09-14 18:00:00",
+          "guest": "Joey Jb",
+          "phone": "+17036878383",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f569e603cae57002ab6c120",
+          "listing_title": "Palo Alto Startup House - Private room"
+        }
+      ],
+      "Portland": [],
+      "Richmond": [],
+      "SF Downtown": [],
+      "San Francisco Downtown": [],
+      "Stanford": [
+        {
+          "checkIn": "2020-08-23 22:00:00",
+          "paid": "PAID: $712.95 of $712.95",
+          "checkOut": "2020-09-22 19:00:00",
+          "guest": "Big Island",
+          "phone": "+15105707818",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5eeee5d61f02640028e778df",
+          "listing_title": "Stanford Startup House: Semi-Private Room"
+        },
+        {
+          "checkIn": "2020-09-01 22:00:00",
+          "paid": "PAID: $674.15 of $674.15",
+          "checkOut": "2020-10-01 18:00:00",
+          "guest": "Tim Horton",
+          "phone": "+18702602705",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f4329c34e701e002d05b675",
+          "listing_title": "Stanford Startup House: Semi-Private Room"
+        }
+      ],
+      "Stunning Home In Menlo Park": [],
+      "The Mansion": []
+    },
+    "results10": {
+      "Alamo Square": [
+        {
+          "checkIn": "2020-08-15 22:00:00",
+          "paid": "PAID: $609.16 of $609.16",
+          "checkOut": "2020-09-15 18:00:00",
+          "guest": "Aaron Wilson",
+          "phone": "+12137877071",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f22ef3ded49e400288a43bf",
+          "listing_title": "Alamo Square Startup House Semi - Private Room"
+        },
+        {
+          "checkIn": "2020-08-30 22:00:00",
+          "paid": "PAID: $796.24 of $796.24",
+          "checkOut": "2020-10-03 18:00:00",
+          "guest": "Obie Dieke",
+          "phone": "+15203738287",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f2628a902418e002898afbf",
+          "listing_title": "Alamo Square Startup House Private Cubicle"
+        }
+      ],
+      "Cupertino": [],
+      "Fulton": [],
+      "Hamann Park": [],
+      "Mayor's Mansion": [],
+      "Menlo Park": [],
+      "Mission": [
+        {
+          "checkIn": "2020-08-28 22:00:00",
+          "paid": "PAID: $814.8 of $814.8",
+          "checkOut": "2020-09-25 18:00:00",
+          "guest": "Jose Negrete",
+          "phone": "+12095099677",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f4889d403df4c0029cc9d40",
+          "listing_title": "Mission Startup House - Private Cubicle"
+        },
+        {
+          "checkIn": "2020-08-30 22:00:00",
+          "paid": "PAID: $902.1 of $902.1",
+          "checkOut": "2020-09-30 18:00:00",
+          "guest": "Mary Lee",
+          "phone": "+16124811328",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f2a17f1fead33002b7f0030",
+          "listing_title": "Mission Startup House - Private Cubicle"
+        },
+        {
+          "checkIn": "2020-09-30 22:00:00",
+          "paid": "PAID: $0 of $2902.24",
+          "checkOut": "2021-02-01 19:00:00",
+          "guest": "Mary Lee",
+          "phone": "+16124811328",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5ebbfee0d68565002818c765",
+          "listing_title": "Mission Startup House - Private Cubicle"
+        }
+      ],
+      "Oakland": [],
+      "PaloAlto": [
+        {
+          "checkIn": "2020-08-22 22:00:00",
+          "paid": "PAID: $1286 of $1617.23",
+          "checkOut": "2020-09-30 18:00:00",
+          "guest": "Philip Spink",
+          "phone": "+14038898816",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f319cca0113fe002d457b36",
+          "listing_title": "Palo Alto Startup House - Private Room"
+        },
+        {
+          "checkIn": "2020-09-06 22:00:00",
+          "paid": "PAID: $0 of $567.45",
+          "checkOut": "2020-09-19 18:00:00",
+          "guest": "Ryan Temple",
+          "phone": "+19086357906",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f43de58466c36002d8e1b1c",
+          "listing_title": "Palo Alto Startup House - Private Room"
+        },
+        {
+          "checkIn": "2020-09-07 22:00:00",
+          "paid": "PAID: $0 of $244.44",
+          "checkOut": "2020-09-14 18:00:00",
+          "guest": "Joey Jb",
+          "phone": "+17036878383",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f569e603cae57002ab6c120",
+          "listing_title": "Palo Alto Startup House - Private room"
+        },
+        {
+          "checkIn": "2020-09-29 22:00:00",
+          "paid": "PAID: $0 of $488.88",
+          "checkOut": "2020-10-20 18:00:00",
+          "guest": "Prajakta Parkar",
+          "phone": "+449833453086",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f5922efb20266002bb067b0",
+          "listing_title": "Palo Alto Startup House: Semi-Private Room"
+        }
+      ],
+      "Portland": [],
+      "Richmond": [
+        {
+          "checkIn": "2020-08-01 22:00:00",
+          "paid": "PAID: $1082.52 of $1082.52",
+          "checkOut": "2020-09-01 19:00:00",
+          "guest": "Michael Woods",
+          "phone": "+13478528087",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f1e283213e827002e883bc3",
+          "listing_title": "Richmond Startup House - Private Room"
+        }
+      ],
+      "SF Downtown": [],
+      "San Francisco Downtown": [],
+      "Stanford": [
+        {
+          "checkIn": "2020-08-18 22:00:00",
+          "paid": "PAID: $505.37 of $505.37",
+          "checkOut": "2020-09-01 18:00:00",
+          "guest": "Matthew Marwedel",
+          "phone": "+18018158980",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f360e256ea4d3002c544fa0",
+          "listing_title": "Stanford Startup House: Semi-Private Room"
+        },
+        {
+          "checkIn": "2020-08-23 22:00:00",
+          "paid": "PAID: $712.95 of $712.95",
+          "checkOut": "2020-09-22 19:00:00",
+          "guest": "Big Island",
+          "phone": "+15105707818",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5eeee5d61f02640028e778df",
+          "listing_title": "Stanford Startup House: Semi-Private Room"
+        },
+        {
+          "checkIn": "2020-09-01 22:00:00",
+          "paid": "PAID: $674.15 of $674.15",
+          "checkOut": "2020-10-01 18:00:00",
+          "guest": "Tim Horton",
+          "phone": "+18702602705",
+          "timezone": "America/Los_Angeles",
+          "reservation_id": "5f4329c34e701e002d05b675",
+          "listing_title": "Stanford Startup House: Semi-Private Room"
+        }
+      ],
+      "Stunning Home In Menlo Park": [],
+      "The Mansion": []
+    }
+  },
+  "houses": {
+    "titles": [
+      "Alamo Square",
+      "Cupertino",
+      "Fulton",
+      "Hamann Park",
+      "Mayor's Mansion",
+      "Menlo Park",
+      "Mission",
+      "Oakland",
+      "Palo Alto",
+      "Portland",
+      "Richmond",
+      "SF Downtown",
+      "San Francisco Downtown",
+      "Stanford",
+      "Stunning Home In Menlo Park",
+      "The Mansion"
+    ],
+    "listings": [
+      [
+        "Alamo Square",
+        "5d306682067814002267d1ab",
+        "The name of the room is not set"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d79463027006a212f8a",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7c463027006a2130d2",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7a463027006a212fcc",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7c463027006a2130fb",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7b463027006a213065",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7c463027006a213126",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4e8d",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4ed5",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4e75",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4e2d",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4e5d",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4e45",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4ea5",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4f1d",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4ebd",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4f05",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4f35",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5ddfd51dae330a001f0e4eed",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7b463027006a21304e",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7e463027006a213151",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7e463027006a213178",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d82463027006a213237",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d82463027006a213300",
+        "Private"
+      ],
+      [
+        "Alamo Square",
+        "5cf53d7c463027006a2130bb",
+        "Private"
+      ],
+      [
+        "Cupertino",
+        "5ed956d760d84d002c804038",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdef9b689690020458083",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdf03f730040025781c66",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdf1002b21400203b7639",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdf18a64da6001f294016",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdf3b1095fa0024bd10e9",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cded76",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdeeff",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdef1b",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdef0d",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdeef1",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdec3d84e1e0020c3d03d",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4167c562e8200026f6ce9b",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4167c562e8200026f6cfba",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4167c562e8200026f6cfc8",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdee045f0a1001fd3a63b",
+        "Shared"
+      ],
+      [
+        "Fulton",
+        "5ddfdee8a64da6001f293dc7",
+        "Shared"
+      ],
+      [
+        "Fulton",
+        "5ddfdec7b37e9b001e4c82df",
+        "Shared"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdeee3",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdeec7",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdeeb9",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5e4166208146000027cdeed5",
+        "Private"
+      ],
+      [
+        "Fulton",
+        "5ddfdf291a5ec60023d6318e",
+        "Private"
+      ],
+      [
+        "Hamann Park",
+        "5ed95d1e544524002b8f937e",
+        "The name of the room is not set"
+      ],
+      [
+        "Menlo Park",
+        "5e53e488528ee5002f428a70",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e53e488528ee5002f428bc6",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e53e488528ee5002f428bb9",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e53e488528ee5002f428bac",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e53e488528ee5002f428b92",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e53e488528ee5002f428b9f",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e695424eb60d600285d1c91",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e695424eb60d600285d1e29",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e695424eb60d600285d1e18",
+        "Private"
+      ],
+      [
+        "Menlo Park",
+        "5e695424eb60d600285d1e07",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5ddfdfcbcfb216001fc8d49e",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5ddfdfcecfb216001fc8d5f1",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5ddfdfd64b1bab00233614f2",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5ddfdfd74929d30020fb0789",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e417b0b3b142e0025254ee9",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e417b0c3b142e0025255062",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e417b0c3b142e0025255048",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e417b0c3b142e0025255055",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e4179c7d8d8e600269310de",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e4179c7d8d8e60026931258",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e4179c7d8d8e60026931265",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e417b0c3b142e002525503b",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e417b0c3b142e002525502e",
+        "Private"
+      ],
+      [
+        "Mission",
+        "5e417b0c3b142e0025255021",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdf64247160001f20c040",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdf71d84e1e0020c3d683",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdf7e4929d30020fb0394",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e3dd710075f5a00270ab0f1",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e3dd710075f5a00270ab105",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdf511095fa0024bd1272",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e3dd710075f5a00270ab0dd",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e3dd710075f5a00270ab119",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e30b21a7728ea00256df8de",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416134166b400025eded06",
+        "  Queen Bed Room"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdf8d02b21400203b79e9",
+        "Shared"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdf9283031300213c83f4",
+        "Shared"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdfa31a5ec60023d6360c",
+        "Shared"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdfb28f9463001fe3401c",
+        "Shared"
+      ],
+      [
+        "Palo Alto",
+        "5ddfdfc983031300213c86f2",
+        "Shared"
+      ],
+      [
+        "Palo Alto",
+        "5e416d763b142e002524fc7c",
+        "Shared"
+      ],
+      [
+        "Palo Alto",
+        "5e30b2bf47e193002630ad94",
+        "Shared"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524fe85",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524fe9f",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524feb9",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524fed3",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524feed",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524ff07",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524ff21",
+        "Private"
+      ],
+      [
+        "Palo Alto",
+        "5e416d773b142e002524ff3b",
+        "Private"
+      ],
+      [
+        "Portland",
+        "5e5946d0b7ab400028bf3651",
+        "Private"
+      ],
+      [
+        "Portland",
+        "5e5946d0b7ab400028bf37a5",
+        "Private"
+      ],
+      [
+        "Portland",
+        "5e5946d0b7ab400028bf37d2",
+        "Private"
+      ],
+      [
+        "Portland",
+        "5e5946d0b7ab400028bf37b7",
+        "Private"
+      ],
+      [
+        "Portland",
+        "5e5946d0b7ab400028bf37a5",
+        "Private"
+      ],
+      [
+        "Portland",
+        "5e5946d0b7ab400028bf37c0",
+        "Private"
+      ],
+      [
+        "Portland",
+        "5e5946d0b7ab400028bf37c9",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da57e9",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da594f",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da590b",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da5960",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da5982",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3caebdbad63600279e6be7",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3caebdbad63600279e6d5e",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3caebdbad63600279e6d80",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3caebdbad63600279e6d4d",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3caebdbad63600279e6d6f",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da593e",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da591c",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da5971",
+        "Private"
+      ],
+      [
+        "Richmond",
+        "5e3cadd63db2750027da592d",
+        "Private"
+      ],
+      [
+        "San Francisco Downtown",
+        "5d2472c55f355800201b2047",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5cf53d8d463027006a2135ed",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5cf53d8d463027006a21360b",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5d40a49c402b26001f977da2",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5ddfd6077c6a62002493f052",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5ddfd6077c6a62002493f070",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5cf53d85463027006a21336e",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5d40a5fa402b26001f9782f1",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd67822dbb500229d4e15",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd67822dbb500229d4e6b",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd67822dbb500229d4dea",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd67822dbb500229d4ec1",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd67822dbb500229d4e96",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd67822dbb500229d4e40",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5cf53d8a463027006a213513",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5d40a6bf659bc2001ed0b6b4",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd82c63ae9b001ea7d721",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd82c63ae9b001ea7d746",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd82c63ae9b001ea7d76b",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5ddfd82c63ae9b001ea7d790",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5cf53d8a463027006a2134fa",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5cf53d8c463027006a21357a",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5cf53d8d463027006a2135c8",
+        "Shared"
+      ],
+      [
+        "Stanford",
+        "5cf53d89463027006a213496",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5cf53d8a463027006a2134e0",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5cf53d8c463027006a213560",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5cf53d8d463027006a2135ab",
+        "Private"
+      ],
+      [
+        "Stanford",
+        "5cf53d8e463027006a21362d",
+        "Private"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9cbf3715005a1e1934",
+        "Private"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fba2bf3715005a1e1cd3",
+        "Private"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d40a9bd2eaa330020058eba",
+        "Private"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd928d1d3250020cdd662",
+        "Private"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd928d1d3250020cdd643",
+        "Private"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9bbf3715005a1e18c6",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9fbf3715005a1e1a1f",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d40b848402b26001f97a550",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd978a30fd4001e977255",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd977a30fd4001e977237",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9bbf3715005a1e18dc",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9cbf3715005a1e18f2",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fba2bf3715005a1e1cf9",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee44820",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee44772",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee4478f",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee447ac",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee44894",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee447c9",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee4485a",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee447e6",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee4483d",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee44803",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5ddfd9c24d488f001ee44877",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9bbf3715005a1e1881",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9bbf3715005a1e185b",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9cbf3715005a1e1908",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9dbf3715005a1e1991",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9dbf3715005a1e19e7",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9cbf3715005a1e191e",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fb9fbf3715005a1e1ab7",
+        "Shared"
+      ],
+      [
+        "Mayor's Mansion",
+        "5d05fba1bf3715005a1e1b88",
+        "Shared"
+      ],
+      [
+        "Oakland",
+        "5d8dcb02cc9b950087aaf0af",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5ddfde9d4b1bab0023360a92",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5ddfdea2247160001f20baf1",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5ddfdea81f83af001f758d51",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5ddfdeb4ff8a000021c7209f",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5e415bc9166b400025edd5de",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5e415bc9166b400025edd6e0",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5e415bc9166b400025edd6eb",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5e415bc9166b400025edd6f6",
+        "Private"
+      ],
+      [
+        "Oakland",
+        "5e415bc9166b400025edd701",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d7b463027006a213092",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d7a463027006a21300e",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d7e463027006a213168",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a21321d",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a21320b",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a2132da",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a213279",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a2132a8",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a2132c9",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a2132ee",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d82463027006a21324e",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d84463027006a213338",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d89463027006a213452",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d89463027006a213468",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d89463027006a2134b2",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5cf53d8c463027006a213544",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9ddf",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9d1b",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9da7",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9d8b",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9ea3",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9d6f",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9e6b",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9e17",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9d37",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9d53",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9dc3",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9e4f",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9e87",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9e33",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9dfb",
+        "Private"
+      ],
+      [
+        "SF Downtown",
+        "5ddfd3b7d1d3250020cd9ebf",
+        "Private"
+      ],
+      [
+        "The Mansion",
+        "5d541e66166e80001f79f8ed",
+        "Shared"
+      ],
+      [
+        "Stunning Home In Menlo Park",
+        "5f3c228029adbd002cd3300b",
+        "Stunning Home in Menlo Park"
+      ]
+    ]
+  }
+}
